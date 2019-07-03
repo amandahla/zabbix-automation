@@ -1,0 +1,4 @@
+[zabbix]
+server=https://myzabbix.com
+user=
+password=
